@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Phadon
 
-🎓 Computer Science undergraduate at  
+🎓 Computer Science Undergraduate  
 **King Mongkut’s University of Technology North Bangkok (KMUTNB)**
 
-💻 Interested in **software development** 
-🚀 Learning by building projects and improving every day
+💻 Interested in **Software Development**  
+🚀 Learning through hands-on projects and continuous improvement
 
 ---
 
-## 🛠️ Skills & Tools
-- Programming: JavaScript, Python, Java
-- Web: HTML, CSS, React, SQL
-- Tools: Git, GitHub, VS Code
+## 🛠 Skills & Tools
+- **Programming Languages:** JavaScript, Python, Java
+- **Web Technologies:** HTML, CSS, React, SQL
+- **Tools:** Git, GitHub, VS Code
