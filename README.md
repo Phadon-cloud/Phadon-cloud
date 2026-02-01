@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Phadon
 
-<!--
-**Phadon-cloud/Phadon-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergraduate at  
+**King Mongkut’s University of Technology North Bangkok (KMUTNB)**
 
-Here are some ideas to get you started:
+💻 Interested in **software development** 
+🚀 Learning by building projects and improving every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- Programming: JavaScript, Python, Java
+- Web: HTML, CSS, React,SQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 🌐 Portfolio
+🔗 https://phadon.dev
+
+---
+
+## 📫 Contact
+- GitHub: [@Phadon-Cloud](https://github.com/Phadon-cloud)
+
+---
+
+⭐ Feel free to check out my repositories and projects!
